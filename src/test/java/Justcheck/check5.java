@@ -2,8 +2,7 @@ package Justcheck;
 
 import org.testng.annotations.Test;
 
-public class check3 {
-
+public class check5 {
 	@Test
 	void Tried()
 	{
@@ -20,5 +19,4 @@ public class check3 {
 
 	
 	
-
 }
