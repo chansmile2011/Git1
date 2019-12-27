@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="64" started-at="2019-12-25T15:51:28Z" finished-at="2019-12-25T15:51:28Z">
+  <suite name="Default suite" duration-ms="240" started-at="2019-12-27T04:59:00Z" finished-at="2019-12-27T04:59:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="64" started-at="2019-12-25T15:51:28Z" finished-at="2019-12-25T15:51:28Z">
-      <class name="Justcheck.check3">
-        <test-method status="PASS" signature="Tried()[pri:0, instance:Justcheck.check3@4cc0edeb]" name="Tried" duration-ms="30" started-at="2019-12-25T15:51:28Z" finished-at="2019-12-25T15:51:28Z">
+    <test name="Default test" duration-ms="240" started-at="2019-12-27T04:59:00Z" finished-at="2019-12-27T04:59:01Z">
+      <class name="Justcheck.Check10">
+        <test-method status="PASS" signature="Tried()[pri:0, instance:Justcheck.Check10@4cc0edeb]" name="Tried" duration-ms="29" started-at="2019-12-27T04:59:01Z" finished-at="2019-12-27T04:59:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tried -->
-      </class> <!-- Justcheck.check3 -->
+      </class> <!-- Justcheck.Check10 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
