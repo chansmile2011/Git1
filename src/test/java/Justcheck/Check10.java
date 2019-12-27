@@ -13,6 +13,16 @@ public class Check10 {
 		System.out.println("Hello How are You !!!!!!!!!!!!!");
 		
 		System.out.println("Welcome");
+	System.out.println("Hello How are You !!!!!!!!!!!!!");
+		
+		System.out.println("Welcome");
+		
+	System.out.println("Hello How are You !!!!!!!!!!!!!");
+		
+		System.out.println("Welcome");
+		
+		
+		
 	}
 
 
